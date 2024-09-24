@@ -13,6 +13,9 @@ I'm an undergraduate student majoring in Industrial Information Technology, and 
 
 Here are a few projects I've worked on:
 
+Online Clothing Frontend - https://github.com/Geethanjana99/Clothing-store-frontend-html-css-js.git
+ElderCare Management System - https://github.com/Geethanjana99/ElderCareManagement--html-bootstrap-php.git
+
 
 ## Contact Me
 
