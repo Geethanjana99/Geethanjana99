@@ -17,7 +17,7 @@ Here are a few projects I've worked on:
 ## Contact Me
 
 - 📧 Email: geeth9973@gmail.com
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: www.linkedin.com/in/geethanjana-prabuddhika-412740317
 - 🐦 Twitter:
 
 Feel free to explore my repositories and get in touch if you have any questions or want to collaborate on projects. I'm always eager to connect with fellow developers and tech enthusiasts!
