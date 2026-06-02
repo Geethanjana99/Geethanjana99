@@ -109,7 +109,7 @@ Developing a Unity-based immersive learning environment to improve networking ed
 ## Connect
 
 - Email: geethanjana9973@gmail.com
-- LinkedIn: www.linkedin.com/in/geethanjana-prabuddhika-412740317
+- LinkedIn: https://www.linkedin.com/in/geethanjana99
 - GitHub: github.com/Geethanjana99
 
 ---
