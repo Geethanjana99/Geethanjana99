@@ -20,7 +20,7 @@ Currently, I work as a Full Stack Web Developer at Fintechnology Asia Pacific La
 
 ## Professional Experience
 
-### Full Stack Web Developer
+### Full Stack Developer
 **Fintechnology Asia Pacific Lanka Ltd** | 2026 - Present
 
 Working on enterprise software solutions, modern web applications, cloud services, and digital transformation projects.
