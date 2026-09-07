@@ -1,117 +1,205 @@
-# Geethanjana Prabuddhika Ananda
+# Hi, I'm Geethanjana 👋
 
-Software Engineering Undergraduate | Full-Stack Developer
+### Full-Stack Developer | Software Engineering Undergraduate
 
-I am a Software Engineering undergraduate pursuing a BSc (Hons) in Industrial Information Technology at Uva Wellassa University of Sri Lanka. I am passionate about building scalable web applications, cloud-based solutions, and software products that solve real-world problems.
+I build web applications, backend systems, and software products with a focus on **clean architecture, practical solutions, and reliable user experiences**.
 
-Currently, I work as a Full Stack Web Developer at Fintechnology Asia Pacific Lanka Ltd, where I contribute to enterprise-grade software solutions using modern technologies including .NET, React, Azure, and cloud-native architectures.
+I'm currently working as a **Full-Stack Developer at Cogent Solutions**, where I work across modern web technologies including **Next.js, PHP, and Python**.
 
----
-
-## About Me
-
-- 🎓 BSc (Hons) in Industrial Information Technology
-- 🏆 Dean's List Recipient (2023, 2024, 2025)
-- 💼 Full Stack Web Developer
-- 🌐 Interested in Software Engineering, Cloud Computing, and System Architecture
-- 🔬 Researching Virtual Reality applications for networking education
+Previously, I worked on enterprise software using **ASP.NET Core, React, TypeScript, and Microsoft Azure**, giving me experience across both application development and cloud-based systems.
 
 ---
 
-## Professional Experience
+## 👨‍💻 About Me
 
-### Full Stack Developer
-**Fintechnology Asia Pacific Lanka Ltd** | 2026 - Present
-
-Working on enterprise software solutions, modern web applications, cloud services, and digital transformation projects.
-
----
-
-## Featured Project
-
-### TrueMarke - Enterprise Electronic Signature Platform
-
-My first production-level software project, developed for real-world business environments.
-
-Key contributions include:
-
-- Secure electronic signature workflows
-- PDF processing and document management
-- Audit logging and compliance tracking
-- Organization and user management
-- Geolocation-based activity monitoring
-- Digital certificate generation
-- Real-time document monitoring
-- Landing page development
-
-**Tech Stack**
-
-- ASP.NET Core
-- Entity Framework Core
-- React
-- TypeScript
-- Azure
-- Tailwind CSS
+* 🎓 BSc (Hons) in Industrial Information Technology
+* 💻 Full-Stack Developer at **Cogent Solutions**
+* 🚀 Building applications with **Next.js, PHP, Python, React, and .NET**
+* ☁️ Interested in cloud computing, software architecture, and scalable systems
+* 🔬 Researching **Virtual Reality for Computer Networking Education**
+* 🏆 Dean's List recipient for academic excellence, 2023, 2024 & 2025
+* 🥇 Best Overall Performance award recipient
+* 🧩 Enjoy turning real-world problems into practical software solutions
 
 ---
 
-## Technical Skills
-
-### Languages
-Java • JavaScript • C# • Python • PHP
+## 🛠️ Tech Stack
 
 ### Frontend
-React • React Native • Next.js • HTML • CSS • Tailwind CSS • Ant Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+</p>
 
 ### Backend
-ASP.NET Core • Node.js • Express.js • REST APIs • JWT Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,dotnet" />
+</p>
 
 ### Databases
-MySQL • MongoDB • Firebase • Supabase
 
-### Cloud & DevOps
-Microsoft Azure • Docker • Git • GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgresql" />
+</p>
 
-### Tools
-Visual Studio • VS Code • Postman • Figma • Unity
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,figma,vscode" />
+</p>
+
+### Other
+
+**Unity • OpenXR • REST APIs • JWT • WebSockets • CRUD • Responsive UI**
 
 ---
 
-## Notable Projects
+## 💼 Current Role
+
+### Full-Stack Developer · Cogent Solutions
+
+Currently developing and maintaining web-based solutions for the event management industry.
+
+My current work involves:
+
+* Building modern web interfaces with **Next.js**
+* Developing backend functionality using **PHP**
+* Working with **Python** for application and data-related tasks
+* Integrating APIs and external services
+* Working with databases and server-side systems
+* Troubleshooting and improving existing applications
+* Contributing across the full software development lifecycle
+
+---
+
+## 🚀 Featured Projects
+
+### TrueMarke
+
+**Enterprise Electronic Signature Platform**
+
+A production-level electronic signature platform designed for real-world business workflows.
+
+**Key Contributions**
+
+* Electronic document signing workflows
+* PDF processing and document management
+* Audit logging and compliance tracking
+* Organization and user management
+* Geolocation-based activity monitoring
+* Digital signature certificate generation
+* Real-time document monitoring
+* Enterprise administration features
+
+**Stack:** `ASP.NET Core` `Entity Framework Core` `React` `TypeScript` `Azure` `Tailwind CSS`
+
+---
 
 ### WayPoint
-Cross-platform shuttle management system with real-time tracking, QR validation, and biometric authentication.
 
-**React Native • Node.js • MongoDB • Expo**
+**Shuttle Management System**
+
+A cross-platform transport management application designed for passengers, drivers, and administrators.
+
+**Features**
+
+* Passenger booking
+* Driver trip management
+* Role-based access control
+* Real-time shuttle tracking
+* Route mapping
+* QR-based validation
+* Biometric authentication
+* Live API and socket integrations
+
+**Stack:** `React Native` `TypeScript` `Node.js` `MongoDB` `Expo`
+
+---
 
 ### CareSync
-Healthcare support platform with real-time data management and secure authentication.
 
-**React • Node.js • Express • Python • MySQL**
+**Healthcare Support System**
 
-### University Management System
-Automated scheduling and university management platform.
+A web-based healthcare support platform focused on responsive interfaces, secure authentication, and real-time data interaction.
 
-**React • PHP • MySQL**
+**Stack:** `React` `Node.js` `Express` `Python` `MySQL` `REST APIs` `JWT`
 
 ---
 
-## Research
+## 🔬 Research
 
-### Interactive Virtual Reality Platform for Learning Basic Networking Concepts
+### Virtual Reality for Computer Networking Education
 
-Developing a Unity-based immersive learning environment to improve networking education through virtual reality.
+I am currently researching the **development and evaluation of an interactive Virtual Reality learning environment for basic computer networking concepts**.
 
-**Unity • OpenXR • SteamVR**
+The project explores how immersive VR environments can support the learning of networking concepts through interactive simulations.
 
----
+**Technologies**
 
-## Connect
-
-- Email: geethanjana9973@gmail.com
-- LinkedIn: https://www.linkedin.com/in/geethanjana99
-- GitHub: github.com/Geethanjana99
+`Unity` `OpenXR` `SteamVR`
 
 ---
 
-*"Focused on building reliable software, learning continuously, and creating technology that delivers real value."*
+## 📚 Education
+
+### Uva Wellassa University of Sri Lanka
+
+**BSc (Hons) in Industrial Information Technology**
+2022 – 2026
+
+**GPA: 3.86**
+
+🏆 Best Overall Performance
+🏆 Dean's List — 2023, 2024 & 2025
+
+---
+
+## 🏅 Certifications & Learning
+
+* GitHub Foundations
+* Docker Foundations Professional Certificate
+* Agile Software Development
+* Test Automation Foundations
+
+---
+
+## 🤝 Leadership & Activities
+
+**Project Chair — IEEE Wellassata AI**
+2025 – 2026
+
+**Virtual Reality Project Member — UWU Expo 2025**
+
+**Mini Organizing Committee — INSL 2024**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geethanjana99&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjana99&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/geethanjana99">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://geethanjana.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=googlechrome" />
+  </a>
+  <a href="mailto:geethanjana9973@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### Building software, solving problems, and learning something new every day.
+
+**`Code • Build • Learn • Improve`**
