@@ -1,205 +1,27 @@
-# Hi, I'm Geethanjana 👋
+# 💫 About Me:
+# Hi, I'm Geethanjana 👋<br><br>### Full-Stack Developer | Software Engineering Undergraduate<br><br>I build web applications, backend systems, and software products with a focus on **clean architecture, practical solutions, and reliable user experiences**.<br><br>I'm currently working as a **Full-Stack Developer at Cogent Solutions**, where I work across modern web technologies including **Next.js, PHP, and Python**.<br><br>Previously, I worked on enterprise software using **ASP.NET Core, React, TypeScript, and Microsoft Azure**, giving me experience across both application development and cloud-based systems.<br><br>---<br><br>## 👨‍💻 About Me<br><br>* 🎓 BSc (Hons) in Industrial Information Technology<br>* 💻 Full-Stack Developer at **Cogent Solutions**<br>* 🚀 Building applications with **Next.js, PHP, Python, React, and .NET**<br>* ☁️ Interested in cloud computing, software architecture, and scalable systems<br>* 🔬 Researching **Virtual Reality for Computer Networking Education**<br>* 🏆 Dean's List recipient for academic excellence, 2023, 2024 & 2025<br>* 🥇 Best Overall Performance award recipient<br>* 🧩 Enjoy turning real-world problems into practical software solutions<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" /><br></p><br><br>### Backend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,dotnet" /><br></p><br><br>### Databases<br><br><p><br>  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgresql" /><br></p><br><br>### Cloud, DevOps & Tools<br><br><p><br>  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,figma,vscode" /><br></p><br><br>### Other<br><br>**Unity • OpenXR • REST APIs • JWT • WebSockets • CRUD • Responsive UI**<br><br>---<br><br>## 💼 Current Role<br><br>### Full-Stack Developer · Cogent Solutions<br><br>Currently developing and maintaining web-based solutions for the event management industry.<br><br>My current work involves:<br><br>* Building modern web interfaces with **Next.js**<br>* Developing backend functionality using **PHP**<br>* Working with **Python** for application and data-related tasks<br>* Integrating APIs and external services<br>* Working with databases and server-side systems<br>* Troubleshooting and improving existing applications<br>* Contributing across the full software development lifecycle<br><br>---<br><br>## 🚀 Featured Projects<br><br>### TrueMarke<br><br>**Enterprise Electronic Signature Platform**<br><br>A production-level electronic signature platform designed for real-world business workflows.<br><br>**Key Contributions**<br><br>* Electronic document signing workflows<br>* PDF processing and document management<br>* Audit logging and compliance tracking<br>* Organization and user management<br>* Geolocation-based activity monitoring<br>* Digital signature certificate generation<br>* Real-time document monitoring<br>* Enterprise administration features<br><br>**Stack:** `ASP.NET Core` `Entity Framework Core` `React` `TypeScript` `Azure` `Tailwind CSS`<br><br>---<br><br>### WayPoint<br><br>**Shuttle Management System**<br><br>A cross-platform transport management application designed for passengers, drivers, and administrators.<br><br>**Features**<br><br>* Passenger booking<br>* Driver trip management<br>* Role-based access control<br>* Real-time shuttle tracking<br>* Route mapping<br>* QR-based validation<br>* Biometric authentication<br>* Live API and socket integrations<br><br>**Stack:** `React Native` `TypeScript` `Node.js` `MongoDB` `Expo`<br><br>---<br><br>### CareSync<br><br>**Healthcare Support System**<br><br>A web-based healthcare support platform focused on responsive interfaces, secure authentication, and real-time data interaction.<br><br>**Stack:** `React` `Node.js` `Express` `Python` `MySQL` `REST APIs` `JWT`<br><br>---<br><br>## 🔬 Research<br><br>### Virtual Reality for Computer Networking Education<br><br>I am currently researching the **development and evaluation of an interactive Virtual Reality learning environment for basic computer networking concepts**.<br><br>The project explores how immersive VR environments can support the learning of networking concepts through interactive simulations.<br><br>**Technologies**<br><br>`Unity` `OpenXR` `SteamVR`<br><br>---<br><br>## 📚 Education<br><br>### Uva Wellassa University of Sri Lanka<br><br>**BSc (Hons) in Industrial Information Technology**<br>2022 – 2026<br><br>**GPA: 3.86**<br><br>🏆 Best Overall Performance<br>🏆 Dean's List — 2023, 2024 & 2025<br><br>---<br><br>## 🏅 Certifications & Learning<br><br>* GitHub Foundations<br>* Docker Foundations Professional Certificate<br>* Agile Software Development<br>* Test Automation Foundations<br><br>---<br><br>## 🤝 Leadership & Activities<br><br>**Project Chair — IEEE Wellassata AI**<br>2025 – 2026<br><br>**Virtual Reality Project Member — UWU Expo 2025**<br><br>**Mini Organizing Committee — INSL 2024**<br><br>---<br><br>## 📊 GitHub<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Geethanjana99&show_icons=true&hide_border=true&rank_icon=github" height="165"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjana99&layout=compact&hide_border=true" height="165"/><br></p><br><br>---<br><br>## 🌐 Connect With Me<br><br><p><br>  <a href="https://www.linkedin.com/in/geethanjana99"><br>    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /><br>  </a><br>  <a href="https://geethanjana.netlify.app/"><br>    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=googlechrome" /><br>  </a><br>  <a href="mailto:geethanjana9973@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /><br>  </a><br></p><br><br>---<br><br>### Building software, solving problems, and learning something new every day.<br><br>**`Code • Build • Learn • Improve`**<br>
 
-### Full-Stack Developer | Software Engineering Undergraduate
 
-I build web applications, backend systems, and software products with a focus on **clean architecture, practical solutions, and reliable user experiences**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geethanjana99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geethanjana9973@gmail.com) 
 
-I'm currently working as a **Full-Stack Developer at Cogent Solutions**, where I work across modern web technologies including **Next.js, PHP, and Python**.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=geethanjana99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=geethanjana99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=geethanjana99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Previously, I worked on enterprise software using **ASP.NET Core, React, TypeScript, and Microsoft Azure**, giving me experience across both application development and cloud-based systems.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=geethanjana99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👨‍💻 About Me
-
-* 🎓 BSc (Hons) in Industrial Information Technology
-* 💻 Full-Stack Developer at **Cogent Solutions**
-* 🚀 Building applications with **Next.js, PHP, Python, React, and .NET**
-* ☁️ Interested in cloud computing, software architecture, and scalable systems
-* 🔬 Researching **Virtual Reality for Computer Networking Education**
-* 🏆 Dean's List recipient for academic excellence, 2023, 2024 & 2025
-* 🥇 Best Overall Performance award recipient
-* 🧩 Enjoy turning real-world problems into practical software solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,dotnet" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgresql" />
-</p>
-
-### Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,figma,vscode" />
-</p>
-
-### Other
-
-**Unity • OpenXR • REST APIs • JWT • WebSockets • CRUD • Responsive UI**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=geethanjana99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=geethanjana99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Current Role
-
-### Full-Stack Developer · Cogent Solutions
-
-Currently developing and maintaining web-based solutions for the event management industry.
-
-My current work involves:
-
-* Building modern web interfaces with **Next.js**
-* Developing backend functionality using **PHP**
-* Working with **Python** for application and data-related tasks
-* Integrating APIs and external services
-* Working with databases and server-side systems
-* Troubleshooting and improving existing applications
-* Contributing across the full software development lifecycle
-
----
-
-## 🚀 Featured Projects
-
-### TrueMarke
-
-**Enterprise Electronic Signature Platform**
-
-A production-level electronic signature platform designed for real-world business workflows.
-
-**Key Contributions**
-
-* Electronic document signing workflows
-* PDF processing and document management
-* Audit logging and compliance tracking
-* Organization and user management
-* Geolocation-based activity monitoring
-* Digital signature certificate generation
-* Real-time document monitoring
-* Enterprise administration features
-
-**Stack:** `ASP.NET Core` `Entity Framework Core` `React` `TypeScript` `Azure` `Tailwind CSS`
-
----
-
-### WayPoint
-
-**Shuttle Management System**
-
-A cross-platform transport management application designed for passengers, drivers, and administrators.
-
-**Features**
-
-* Passenger booking
-* Driver trip management
-* Role-based access control
-* Real-time shuttle tracking
-* Route mapping
-* QR-based validation
-* Biometric authentication
-* Live API and socket integrations
-
-**Stack:** `React Native` `TypeScript` `Node.js` `MongoDB` `Expo`
-
----
-
-### CareSync
-
-**Healthcare Support System**
-
-A web-based healthcare support platform focused on responsive interfaces, secure authentication, and real-time data interaction.
-
-**Stack:** `React` `Node.js` `Express` `Python` `MySQL` `REST APIs` `JWT`
-
----
-
-## 🔬 Research
-
-### Virtual Reality for Computer Networking Education
-
-I am currently researching the **development and evaluation of an interactive Virtual Reality learning environment for basic computer networking concepts**.
-
-The project explores how immersive VR environments can support the learning of networking concepts through interactive simulations.
-
-**Technologies**
-
-`Unity` `OpenXR` `SteamVR`
-
----
-
-## 📚 Education
-
-### Uva Wellassa University of Sri Lanka
-
-**BSc (Hons) in Industrial Information Technology**
-2022 – 2026
-
-**GPA: 3.86**
-
-🏆 Best Overall Performance
-🏆 Dean's List — 2023, 2024 & 2025
-
----
-
-## 🏅 Certifications & Learning
-
-* GitHub Foundations
-* Docker Foundations Professional Certificate
-* Agile Software Development
-* Test Automation Foundations
-
----
-
-## 🤝 Leadership & Activities
-
-**Project Chair — IEEE Wellassata AI**
-2025 – 2026
-
-**Virtual Reality Project Member — UWU Expo 2025**
-
-**Mini Organizing Committee — INSL 2024**
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geethanjana99&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjana99&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/geethanjana99">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://geethanjana.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=googlechrome" />
-  </a>
-  <a href="mailto:geethanjana9973@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
-
----
-
-### Building software, solving problems, and learning something new every day.
-
-**`Code • Build • Learn • Improve`**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
