@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="health icon">
+<title>health icon</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101B2E"/><stop offset=".55" stop-color="#080D18"/><stop offset="1" stop-color="#15162B"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#66E3F1"/><stop offset="1" stop-color="#AA9AFF"/></linearGradient>
+ <linearGradient id="body" x2=".3" y2="1"><stop stop-color="#D3E1EF"/><stop offset=".23" stop-color="#8299B3"/><stop offset=".56" stop-color="#344960"/><stop offset="1" stop-color="#18283C"/></linearGradient>
+ <linearGradient id="glass" x2=".7" y2="1"><stop stop-color="#173951"/><stop offset=".4" stop-color="#0C1425"/><stop offset="1" stop-color="#252543"/></linearGradient>
+ <radialGradient id="lens"><stop stop-color="#0B1730"/><stop offset=".56" stop-color="#172E48"/><stop offset=".8" stop-color="#58ADBD"/><stop offset="1" stop-color="#102138"/></radialGradient>
+ <radialGradient id="haze"><stop stop-color="#424981" stop-opacity=".28"/><stop offset="1" stop-color="#15223A" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7CACC9" stroke-opacity=".07" stroke-width=".7"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="71" height="71" rx="24" fill="url(#bg)" stroke="#22344A" />
+<g transform="translate(12 12) scale(1)" ><path d="M7 23 L17 23 L22 12 L28 36 L34 23 L43 23" fill="none" stroke="#66E3F1" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" /><rect x="2" y="3" width="44" height="42" rx="9" fill="none" stroke="#66E3F1" /></g>
+</svg>
