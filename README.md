@@ -43,20 +43,25 @@ The project illustrations are conceptual artwork, not application screenshots.
   <img src="./assets/sections/01.svg" width="100%" alt="01 / About: Full-stack thinking. Human-centred outcomes.">
 </picture>
 
-I’m **Geethanjana**, a developer who enjoys turning real-world problems into practical software. I build web applications, backend systems, and software products with a focus on **clean architecture, maintainable code, and reliable user experiences**.
-
-My work connects modern web development with enterprise applications and cloud-based systems. Alongside development, I’m researching how **Virtual Reality can make computer networking concepts more tangible through interactive simulations**.
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <img src="./assets/Software%20engineer%20with%20digital%20panels.webp" width="100%" alt="Geethanjana surrounded by software engineering, application architecture, and virtual reality panels.">
+    </td>
+    <td width="66%" valign="top">
+      <p>I’m <strong>Geethanjana</strong>, a developer who enjoys turning real-world problems into practical software. I build web applications, backend systems, and software products with a focus on <strong>clean architecture, maintainable code, and reliable user experiences</strong>.</p>
+      <p>My work connects modern web development with enterprise applications and cloud-based systems. Alongside development, I’m researching how <strong>Virtual Reality can make computer networking concepts more tangible through interactive simulations</strong>.</p>
+      <p><strong>Currently building:</strong> web-based solutions for the event management industry with Next.js, PHP, and Python.</p>
+      <p><strong>Experience I bring:</strong> enterprise application development with ASP.NET Core, React, TypeScript, Entity Framework Core, and Microsoft Azure.</p>
+      <p><strong>Ideas I keep exploring:</strong> cloud computing, software architecture, scalable systems, and immersive learning experiences.</p>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(max-width: 650px)" srcset="./assets/mobile/developer-console.svg">
   <img src="./assets/developer-console.svg" width="100%" alt="Developer configuration: Geethanjana; Full-Stack Developer; Cogent Solutions; web, backend, cloud, and VR; practical, maintainable, human-centred software.">
 </picture>
-
-**Currently building:** web-based solutions for the event management industry with Next.js, PHP, and Python.
-
-**Experience I bring:** enterprise application development with ASP.NET Core, React, TypeScript, Entity Framework Core, and Microsoft Azure.
-
-**Ideas I keep exploring:** cloud computing, software architecture, scalable systems, and immersive learning experiences.
 
 <picture>
   <source media="(max-width: 650px)" srcset="./assets/mobile/principles.svg">
